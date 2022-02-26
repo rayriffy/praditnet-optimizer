@@ -3,4 +3,4 @@ module.exports = {
     formats: ["image/webp"],
     domains: ["praditnet-cdn.rayriffy.com"],
   },
-};
+}
