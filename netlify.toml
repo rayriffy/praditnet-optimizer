@@ -1,0 +1,4 @@
+[[headers]]
+  for = "/_ipx/*"
+  [headers.values]
+  cache-control = 'public, max-age=2592000'
